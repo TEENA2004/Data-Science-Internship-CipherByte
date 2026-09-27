@@ -42,7 +42,6 @@ The Iris dataset is a standard benchmark in machine learning. The goal was to bu
 - Evaluation metrics used: Accuracy, Precision, Recall, F1-Score, Confusion Matrix
 - Model performance was visualized using charts to show species distribution and classification accuracy
 
-Note: Code is an internship training script — run locally during the internship period.
 ---
 
 ## 💡 Impact & Learning Outcomes
@@ -70,6 +69,7 @@ IT Services company based in Kolkata, West Bengal. Provides real-world internshi
 🔗 [cipherbytetechnologies.com](https://www.crunchbase.com/organization/cipherbyte-technologies)
 
 ---
-
+Note: Code is an internship training script — run locally during the internship period.
+---
 
 [LinkedIn](https://www.linkedin.com/in/teena-sharma-professional) · [GitHub](https://github.com/TEENA2004)
