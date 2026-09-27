@@ -66,7 +66,7 @@ The Iris dataset is a standard benchmark in machine learning. The goal was to bu
 ## 🏢 About CipherByte Technologies
 
 IT Services company based in Kolkata, West Bengal. Provides real-world internship experience to students in areas including data science, web development, and programming.
-🔗 [cipherbytetechnologies.com](https://www.cipherbytetechnologies.com)
+🔗 [cipherbytetechnologies.com](https://www.crunchbase.com/organization/cipherbyte-technologies)
 
 ---
 
