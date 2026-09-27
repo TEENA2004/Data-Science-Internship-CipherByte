@@ -1,6 +1,6 @@
 # 🔬 Data Science Internship — CipherByte Technologies
 
-**CipherByte Technologies** · Remote · 12-July , 2024 –  12 August, 2024
+**CipherByte Technologies** · Remote · 12-July 2024 –  12 August 2024
 **IIS (Deemed to be a University), Jaipur** · BSc (Hons.) Data Analytics & AI 
 
 ---
